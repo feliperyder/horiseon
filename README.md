@@ -36,6 +36,9 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 Image ‘alt’ attributes
 https://www.w3schools.com/tags/att_img_alt.asp
 
+Nav bar active.hoover
+https://www.youtube.com/watch?v=oLgtucwjVII
+
 
 ## License
 
